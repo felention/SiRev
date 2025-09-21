@@ -25,6 +25,8 @@ If you're using a WSL alternative like MSYS2 recommended below, you will have to
 ## Requirements
 It would be better to read the requirements before actually getting started.
 
+You will need to change the location on line `25` to wherever you Siege is installed to. On Windows, it's structured as `DRIVE:\LOCATION`, in my case `E:\Tom Clancy's Rainbow Six Siege`. If yours is something like `C:\Documents\Games\Tom Clancy's Rainbow Six Siege`, it will need to be `/mnt/c/Documents/Games/Tom Clancy's Rainbow Six Siege`.
+
 ### MSYS2 | WSL Alternative
 As this is a bash script and Siege is only playable on Windows for PC, you will be required to either have WSL enabled and setup, or use an alternative. I recommend MSYS2 For Windows, as this is the simplest and most full environment I can find.\
 -Go to [msys2.org](https://www.msys2.org/)\
