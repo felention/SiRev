@@ -8,6 +8,8 @@ PSN - The in-game name matches the one only on PSN.\
 XBL - The in-game name matches the one only on Xbox.\
 No platform - The user is assumed to be playing on PC.
 
+I don't understand the reason the MatchReplay files don't always show the operator, but sometimes they're not included. They're only displayed for when you remember what Op killed you, and not the player.
+
 ![Sample Output of SiRev](SiRev.png)
 
 ### Disclaimer
