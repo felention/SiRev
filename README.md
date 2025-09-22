@@ -8,6 +8,8 @@ PSN - The in-game name matches the one only on PSN.\
 XBL - The in-game name matches the one only on Xbox.\
 No platform - The user is assumed to be playing on PC.
 
+![Sample Output of SiRev](SiRev.png)
+
 ### Disclaimer
 This script does not explicitly breach Siege TOS, and there is no real way for its usage to be detected. That does not, however, mean Ubisoft will not act upon it, as it attempts to bypass the privacy nicknames. This is solely created to aid in the detection of cheaters, and making it easier to track their stats.
 
