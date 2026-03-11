@@ -18,7 +18,7 @@ This script does not explicitly breach Siege TOS, and there is no real way for i
 There is currently a quick and easy method of deanonymising a privacy nickname by using the block and sending a friend request. Blocking only works twice until you restart the game (checking the overlay blocklist, second checking the Ubisoft Connect blocklist). Sending a friend request will notify that player you've sent a request, which may not be desired, especially when using a nickname yourself.
 
 ## Usage
-The way this script works, is it takes the data stored in the Match Replay file. Because of this, you must wait for the first round to finish. It takes ~20 seconds to complete, as it makes 10 requests to the Tracker Network for each player.
+The way this script works, is it takes the data stored in the Match Replay file. Because of this, you must wait for the first round to finish. It takes ~20 seconds to complete, as it makes 10 requests to the Tracker Network, one for each player.
 
 `bash sirev.sh` - This will check all the players in the current lobby.\
 `bash sirev.sh p PLAYER` - If there is one user in particular that you want to grab the real name or platform of, you can run this, replacing "PLAYER" with the in-game name.\
